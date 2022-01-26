@@ -7,6 +7,7 @@ const app = new Vue({
 	data: {
 		hello: 'Hello ',
 		userName: '',
-		helloMark: '!'
+		helloMark: '!',
+		welcomeImage: 'https://picsum.photos/800/600'
 	}
 })
