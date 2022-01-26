@@ -7,6 +7,6 @@ const app = new Vue({
 	data: {
 		hello: 'Hello ',
 		userName: '',
-		// welcomeMessage: data.hello + data.userName + '!',
+		helloMark: '!'
 	}
 })
